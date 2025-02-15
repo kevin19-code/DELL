@@ -1,0 +1,43 @@
+.de{
+
+    font-size: 16px;
+    font-family: Verdana;
+    text-align: center;
+
+}
+
+.JJ{
+
+    font-size: 12px;
+    font-family: Arial;
+    margin: 0;
+    margin-bottom: 15px;
+    margin-left: 15px;
+   
+
+}
+
+
+.Color{
+
+border: 0;
+background-color: rgb(100, 100, 100);
+width: 100px;
+color: white;
+
+}
+
+.fal{
+    display: none;
+ background-color: rgb(255, 255, 255);
+ width: 100px;
+ border: 0;
+
+}
+
+.LK{
+
+width: 100px;
+
+
+}
